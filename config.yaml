@@ -1,0 +1,8 @@
+numberOfRuns: 1
+urls:
+  - https://www.yahoo.co.jp/
+  - https://travel.yahoo.co.jp/
+  - https://travel.yahoo.co.jp/00001401
+mobileOutputDir: ./mobile
+desktopOutputDir: ./desktop
+
