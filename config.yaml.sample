@@ -1,0 +1,6 @@
+numberOfRuns: 1
+urls:
+  - https://www.google.com
+mobileOutputDir: ./mobile
+desktopOutputDir: ./desktop
+
