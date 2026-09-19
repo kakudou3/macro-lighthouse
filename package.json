@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@lhci/cli": "^0.14.0",
-    "@lhci/utils": "^0.14.0",
+    "@lhci/utils": "^0.15.0",
     "cli-table3": "^0.6.5",
     "commander": "^13.1.0",
     "js-yaml": "^4.1.0"
